@@ -1,0 +1,21 @@
+{
+  "name": "es6-modules",
+  "version": "1.0.0",
+  "description": "es6 modules loading",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "gulp build"
+  },
+  "author": "Paul Grock <paulgrock@gmail.com> (http://paulgrock.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "6to5": "^1.13.11",
+    "es6-module-transpiler": "^0.9.5",
+    "gulp": "^3.8.10",
+    "gulp-6to5": "^1.0.2",
+    "gulp-es6mt": "^1.1.0",
+    "gulp-traceur": "^0.14.1",
+    "traceur": "0.0.74"
+  }
+}

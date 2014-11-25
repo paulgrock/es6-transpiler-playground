@@ -1,4 +1,4 @@
-es6-transpiler-playground
+ES6 Transpiler Playground
 =========================
 
-Trying out ES6 transpilers for module formats
+Trying out ES6 module formats transpilers
